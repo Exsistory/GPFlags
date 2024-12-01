@@ -1,1 +1,1 @@
-See the readme on [Modrinth](https://modrinth.com/plugin/gpflags/).
+[![](https://jitpack.io/v/Exsistory/GPFlags.svg)](https://jitpack.io/#Exsistory/GPFlags)
